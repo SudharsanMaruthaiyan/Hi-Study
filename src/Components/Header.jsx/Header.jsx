@@ -5,7 +5,7 @@ import { ChevronDown, Grid2X2, Search, ShoppingCart, User } from "lucide-react";
 const Header = () => {
   return (
     <>
-      <div className="2xl:container">
+      <div className="2xl:container mx-auto">
         <div className="w-[100%] mx-auto grid grid-cols-2 gap-5 xl:grid-cols-3 px-5 lg:px-10 lg:py-5 py-3 md:py-3 items-center shadow-2xl">
           <div className=" flex gap-3 items-center">
             <img src={logo} alt="logo" className="w-[50%] lg:w-[30%]" />

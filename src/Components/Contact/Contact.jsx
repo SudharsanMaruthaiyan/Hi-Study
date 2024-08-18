@@ -1,6 +1,7 @@
 import ContactForm from "../ContactForm/ContactForm"
 import ContactCard from "../ContactCard/ContactCard"
 import Footer from "../Footer/Footer"
+import Map from "../Map/Map"
 
 const Contact = () => {
   return (
@@ -14,7 +15,9 @@ const Contact = () => {
                 </div>  
                 <ContactCard/>
                 <ContactForm/>
-                
+            </div>
+            <div>
+                <Map/>
             </div>
             {/* <Footer/> */}
         </div>

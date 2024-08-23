@@ -16,4 +16,4 @@ export const icon3 = "https://ik.imagekit.io/jjyo3gsee/Rainbow%20Themes/rainbow%
 export const icon4 = "https://ik.imagekit.io/jjyo3gsee/Rainbow%20Themes/rainbow%20img/Icon.png?updatedAt=1723694543038"
 
 // contact images 
-export const contactimg =  "https://ik.imagekit.io/jjyo3gsee/HI-Study/image/contact.jpg?updatedAt=1723957549258"
+export const contactimg =  "https://ik.imagekit.io/jjyo3gsee/HI-Study/image/suganth.jpeg?updatedAt=1724425603905"

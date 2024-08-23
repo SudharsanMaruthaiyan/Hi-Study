@@ -6,7 +6,8 @@ import Map from "../Map/Map"
 const Contact = () => {
   return (
     <>
-        <div className=" 2xl:container mx-auto  bg-[#f1e4fd]">
+    {/* bg-[#f1e4fd] */}
+        <div className=" 2xl:container mx-auto bg-[#f1e4fd]">
             <div className="lg:w-[90%] xl:w-[85%] w-[92%] mx-auto">
                 <div className=" text-center pt-28 flex justify-center flex-col items-center">   
                     <h2 className="  text-center font-[euclid] font-medium text-[#be66e7] bg-[#EBD3FB] py-2 px-5  rounded-full w-fit">CONTACT US</h2>
@@ -19,7 +20,6 @@ const Contact = () => {
             <div>
                 <Map/>
             </div>
-            {/* <Footer/> */}
         </div>
     </>
   )
